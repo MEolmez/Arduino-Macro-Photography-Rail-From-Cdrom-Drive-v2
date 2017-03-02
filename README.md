@@ -5,6 +5,9 @@ When taking photos with reversed lenses for macro purposes , focused area is so 
 It uses the part that moves reading laser from an old cd-rom drive , arduino uno , easydriver for motor control , an IR led to trigger the camera and a lcd keypad shield. You can choose how many photos to take , step mode(full , half , 1/4 , 1/8) and exposure time.
 
 
+<img src="https://github.com/MEolmez/Macro-Rail-v2/blob/master/Result1.jpg" width="500"/>
+<img src="https://github.com/MEolmez/Macro-Rail-v2/blob/master/Setup.jpg" width="300"/>
+
 multiCameraIrControl Librarys Author is Sebastian Setz. Librarys website is here - > http://sebastian.setz.name/arduino/my-libraries/multi-camera-ir-control/
 * This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License.
 * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/3.0/ or send a letter to
